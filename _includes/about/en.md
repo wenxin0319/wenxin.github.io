@@ -1,7 +1,7 @@
-## Biography
+## Personal Information
 
-I received my master degree from the Department of Computer Science at University of California, Los Angeles(UCLA), advised by Prof. [Yizhou Sun](https://web.cs.ucla.edu/~yzsun/). Before UCLA, I received my bachelor’s degree from Peking University. Now I am an infrastructure engineer on the Network Infrastructure Team at Alibaba Cloud.
+I am Cheng Wenxin. I completed my undergraduate studies at the School of Computer Science of Beijing Jiaotong University and am about to earn my graduate degree from the Computer Science Department of University of California, Los Angeles. Currently, I am actively seeking new job opportunities.
 
-## Domain
+## Specialization
 
-My research interests include cloud computing, parallel computing and high performance computing. My blog will also cover topic about large language model Platforms and data mining.
+I specialized in Natural Language Processing (NLP) during my undergraduate studies and am now actively transitioning to backend development. Currently, I am seeking job opportunities related to backend roles.
