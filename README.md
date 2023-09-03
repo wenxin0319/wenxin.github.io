@@ -1,8 +1,12 @@
-# [Zhu Yikai Blog](https://zyksir.github.io)
+# [Wenxin Cheng Blog](https://wenxin.github.io)
 
 ================================
 
 ## Getting Started
+0. if you are using "Windows System", and "Clash for windows" VPN, you should run this command in your powershell
+```
+$Env:http_proxy="http://127.0.0.1:7890";$Env:https_proxy="http://127.0.0.1:7890"
+```
 
 1. [install ruby](https://ruby-lang.org/en/documentation/installation). For MacOS users, you should follow this [guide](https://mac.install.guide/ruby/13.html). After this step, if you run `ruby --version`, you will see a version greater than 3.
 2. fork this github and `git clone` into you local computer.
