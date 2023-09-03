@@ -1,11 +1,11 @@
 # Site settings
-title: Yikai Zhu Blog
-SEOTitle: 朱熠恺的博客 |  Yikai Zhu Blog
-header-img: img/home-bg.jpg
-email: zhuyikai.zyk@gmail.com
-description: "这是朱熠恺的个人博客"
-keyword: "朱熠恺，朱熠恺的博客, Yikai Zhu, Machine Learning, Architecture Engineer"
-url: "https://zyksir.github.io" # [github-username].github.io
+title: Wenxin Cheng Blog
+SEOTitle: 程雯鑫的博客 |  Wenxin Cheng Blog
+header-img: img/wenxin.jpg
+email: cwx0319@gmail.com
+description: "这是程雯鑫的个人博客"
+keyword: "程雯鑫，程雯鑫的博客, Wenxin Cheng, Deep Learning, Software Engineer"
+url: "https://wenxin.github.io" # [github-username].github.io
 baseurl: "" # please leave it empty here
 
 # Publish posts or collection documents with a future date.
@@ -13,15 +13,10 @@ future: true
 
 # SNS settings
 RSS: false
-# weibo_username: 
-# zhihu_username: 
-github_username: zyksir
-# twitter_username: 
-# facebook_username:  
-linkedin_username:  zyksir
+github_username: wenxin 
+linkedin_username:  wenxin
 
 # Build settings
-# from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
 highlighter: rouge
 permalink: pretty
 paginate: 10
@@ -71,12 +66,12 @@ netease_comment: false
 
 # Google Analytics
 ga_track_id: "G-ZSJ13EK1TT" # Format: UA-xxxxxx-xx
-ga_domain: zyksir.github.io
+ga_domain: wenxin.github.io
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "要拥有一个有趣的灵魂 <br> Alibaba Infrastructure Service @ Alibaba Cloud"
-sidebar-avatar: https://github.com/zyksir.png # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: " <br> CS Master Student @ UCLA"
+sidebar-avatar: https://github.com/wenxin0319.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
@@ -92,7 +87,5 @@ page-mathjax: false
 # Friends
 friends:
   [
-    { title: "Wenxin Cheng", href: "https://www.linkedin.com/in/gracewx/"},
-    { title: "Xinhao Kong", href: "https://sigempty.github.io/" },
-    { title: "Ziqi Pang", href: "https://ziqipang.github.io/" }
+    { title: "Yikai Zhu", href: "https://www.linkedin.com/in/zyksir/"},
   ]
